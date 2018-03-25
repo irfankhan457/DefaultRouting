@@ -1,0 +1,8 @@
+.inf {
+    width: 200px;
+    height: 20px;
+}
+.navbar-nav a.active {
+    background-color:red;
+    color: green !important;
+}
